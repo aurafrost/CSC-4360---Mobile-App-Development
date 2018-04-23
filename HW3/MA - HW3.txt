@@ -1,0 +1,15 @@
+Please complete the problems from your textbook:
+Ex 9.4 (page 183)
+Ex 10.3 (page 207)
+Ex 11.7 (page 230) 
+Ex 12.6 (page 246) - yes you must read the whole chapter to know understand the context of this question.
+Ex 13.5 (page 265)
+
+Again, when choosing colors and creating icons, please review the additional topics slide on Color Theory.
+To be clear:  for each problem, please include (1) an APP and (2) your source-code folder, zipped up.
+Please note that if you CANNOT generate the app for each iOS problem,
+then please include a screenshot of the app working in the simulator on your machine together with the zipped source code,
+instead.  
+Following these steps will result in a max 5% overall deduction for not submitting the apps for each problem.  
+In other words, if you do everything else (functionally) to solve each homework problem, 
+and just cannot generate the app for each problem, then you would receive a 95/100 for Homework 3.

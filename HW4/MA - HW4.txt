@@ -1,0 +1,10 @@
+1. Using visual studio, make a Hello World app with one button. 
+Pressing the button should make the text "hello world" display.  
+Submit the zip source code, an Android app/apk, and an IOS app.
+
+2. Using visual studio, make a Say Hello app with one button and one text entry field. 
+Enter your name into the text field.  
+Pressing the button should make the text "hello, <whatever you entered>" display.  
+Submit the zip source code, an Android app/apk, and an IOS app.
+
+Please note, all applications are expected to not only be functional, but also pretty.

@@ -1,0 +1,10 @@
+1. Download free Remote Desktop viewing tool, tightVNC, at http://tightvnc.com
+2. Using tightVNC, login to the remote Mac machine: 
+Mac host address: 73.207.41.244  
+When prompted, enter the tightVNC password:
+tightVNC password: csc4360
+When prompted, enter the Mac username and password:
+Mac username: csc4360student1
+Mac password: csc4360
+3. Xcode is already installed.  Run Xcode and perform your homework.
+NOTE: You are welcome to use the HackGSU team in the team dropdown, when you create your project(s).
